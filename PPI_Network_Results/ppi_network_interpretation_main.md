@@ -183,7 +183,7 @@ This boxplot compares the distribution of degree centrality across the six PIKK 
 
 ## 7. PPI Communities Network (Louvain)
 
-![PIKK DEG PPI Network — Louvain Communities (8 communities detected)]../network/PPI_communities_network.png)
+![PIKK DEG PPI Network — Louvain Communities (8 communities detected)](../network/PPI_communities_network.png)
 
 ### What the plot shows
 
