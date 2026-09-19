@@ -1,0 +1,15 @@
+group	n_cells	category
+Malignant	2488	major_lineage
+Fibroblasts	744	major_lineage
+Myofibroblasts	710	major_lineage
+CD8Tex	501	major_lineage
+CD4Tconv	417	major_lineage
+CD8T	397	major_lineage
+Endothelial	269	major_lineage
+Plasma	148	major_lineage
+Mast	122	major_lineage
+Mono/Macro	88	major_lineage
+Myocyte	18	major_lineage
+Malignant cells	2488	malignancy
+Stromal cells	1741	malignancy
+Immune cells	1673	malignancy
